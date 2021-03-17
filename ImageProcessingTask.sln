@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingTask", "WPFUI\ImageProcessingTask.csproj", "{90855878-8D90-47FD-9CCE-4CCF706CA279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageProcessingTaskTests", "ImageProcessingTaskTests\ImageProcessingTaskTests.csproj", "{33EE37DE-086B-41A9-BD3D-42852231C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90855878-8D90-47FD-9CCE-4CCF706CA279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90855878-8D90-47FD-9CCE-4CCF706CA279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90855878-8D90-47FD-9CCE-4CCF706CA279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90855878-8D90-47FD-9CCE-4CCF706CA279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33EE37DE-086B-41A9-BD3D-42852231C8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33EE37DE-086B-41A9-BD3D-42852231C8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33EE37DE-086B-41A9-BD3D-42852231C8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33EE37DE-086B-41A9-BD3D-42852231C8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BA2CFF-9052-4B35-9C22-0594BC069B15}
+	EndGlobalSection
+EndGlobal
